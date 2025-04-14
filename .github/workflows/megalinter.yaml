@@ -1,6 +1,6 @@
 ---
 # MegaLinter GitHub Action configuration file
-# More info at https://megalinter.github.io
+# More info at https://megalinter.io
 # All variables described in https://megalinter.io/latest/configuration/
 
 name: MegaLinter
@@ -36,11 +36,12 @@ jobs:
             overrides
             .github
       - run: echo "🐙 Sparse Checkout of ${{ github.repository }} repository to the CI runner."
+
       # MegaLinter Configuration
       - name: MegaLinter Run
         id: ml
         ## latest release of major version
-        uses: oxsecurity/megalinter/flavors/documentation@v7
+        uses: oxsecurity/megalinter/flavors/documentation@v8
         env:
           # ADD CUSTOM ENV VARIABLES OR DEFINE IN MEGALINTER_CONFIG file
           MEGALINTER_CONFIG: .github/config/megalinter.yaml
