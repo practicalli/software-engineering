@@ -4,6 +4,10 @@
 
 A practical guide to engineering practices and common tools for effective software development.
 
+Software engineering is a highly engaging career that can keep a person learning for many lifetimes.
+
+The industry is far from perfect, as it is very people intensive after all. Therefore characteristics and emotions should be navigated with care and understanding.
+
 !!! QUOTE "Quote: John Stevenson, Practicalli"
     **Effective Communication** is the fundamental challenge for all software engineering projects
 
@@ -11,7 +15,7 @@ A practical guide to engineering practices and common tools for effective softwa
     When a problem is well-defined in a language that everyone understands, it becomes far simpler to solve
 
 !!! QUOTE "Quote: John Stevenson, Practicalli"
-    **Overt** enthusiasm is to the detriment of pragmatism
+    **Overt** enthusiasm is to the detriment of pragmatism.
 
 
 ??? HINT "Engineering Playbook Initiative"
@@ -23,7 +27,7 @@ A practical guide to engineering practices and common tools for effective softwa
 
 
 ??? WARNING "New Book - content under development"
-    Practicalli Software Engineering was started in November 2023 in an attempt to codify the last few decades of development experience, so this will be an on-going work
+    Practicalli Software Engineering is an attempt to codify the last few decades of software development experience, so this will be an on-going work.
 
 
 ## Discussions and feedback

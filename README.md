@@ -11,7 +11,7 @@
 
 ## Book Overview
 
-A practical guide to software development practices and tools.
+A practical guide to software development principles, practices and effective use of tools.
 
 
 ## Book status
@@ -108,4 +108,3 @@ make docs-changed
 ```
 
 > NOTE: navigation changes may not be correctly reflected without reloading the page in the web browser or carrying out a full `make docs` build
-
