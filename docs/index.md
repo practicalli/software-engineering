@@ -37,16 +37,16 @@ The industry is far from perfect, as it is very people intensive after all. Ther
 
 ## Navigate the book
 
-Use the mouse or built-in key bindings to navigate the pages of the book
+Use the links in the footer of each page or built-in key bindings to navigate the pages of the book.
 
-- ++p++ , ++comma++ : go to previous page
-- ++n++ , ++period++ : go to next page
+- ++"n"++ or ++period++ : go to next page
+- ++"p"++ or ++comma++ : go to previous page
 
 Use the search box to quickly find a specific topic
 
-- ++f++ , ++s++ , ++slash++ : open search dialog
-- ++arrow-down++ , ++arrow-up++ : select next / previous result
-- ++esc++ , ++tab++ : close search dialog
+- ++slash++ or ++ctrl+"k"++: open search dialog
+- ++arrow-down++  ++arrow-up++ : select next / previous search result
+- ++esc++ or ++tab++ : close search dialog
 - ++enter++ : follow selected result
 
 

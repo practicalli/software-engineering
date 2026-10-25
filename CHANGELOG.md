@@ -4,7 +4,8 @@
 
 ## Changed
 
-dev: latest github actions via `make dependencies-update`
+- docs(intro): ✏️ update navigation keys information
+- dev: latest github actions via `make dependencies-update`
 
 | :file                                          | :name                   | :current | :latest |
 |------------------------------------------------|-------------------------|----------|---------|
